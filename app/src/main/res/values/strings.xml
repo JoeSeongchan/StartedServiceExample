@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">StartedServiceExample</string>
+  <string name="btn_press_me">Press me</string>
+</resources>
